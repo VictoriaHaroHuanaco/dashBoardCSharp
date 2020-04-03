@@ -1,0 +1,4 @@
+C:\Proyectos\dashBoardCSharp\Utilerias\bin\Debug\Utilerias.dll
+C:\Proyectos\dashBoardCSharp\Utilerias\bin\Debug\Utilerias.pdb
+C:\Proyectos\dashBoardCSharp\Utilerias\obj\Debug\Utilerias.dll
+C:\Proyectos\dashBoardCSharp\Utilerias\obj\Debug\Utilerias.pdb

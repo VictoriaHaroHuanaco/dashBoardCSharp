@@ -1,0 +1,8 @@
+C:\Proyectos\dashBoardCSharp\Conexion\bin\Debug\Conexion.dll
+C:\Proyectos\dashBoardCSharp\Conexion\bin\Debug\Conexion.pdb
+C:\Proyectos\dashBoardCSharp\Conexion\bin\Debug\Utilerias.dll
+C:\Proyectos\dashBoardCSharp\Conexion\bin\Debug\Utilerias.pdb
+C:\Proyectos\dashBoardCSharp\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Proyectos\dashBoardCSharp\Conexion\obj\Debug\Conexion.csproj.CopyComplete
+C:\Proyectos\dashBoardCSharp\Conexion\obj\Debug\Conexion.dll
+C:\Proyectos\dashBoardCSharp\Conexion\obj\Debug\Conexion.pdb
